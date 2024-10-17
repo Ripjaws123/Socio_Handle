@@ -1,4 +1,4 @@
-# Twitter Clone
+# Socio Handle
 
 A Twitter-like social media platform built using **Next.js** for the frontend and **Express.js** for the backend. This project includes basic functionalities such as creating, deleting, and liking posts, following/unfollowing users, and dynamic profile pages. The home page shows all posts from the logged-in user and the users they follow, with an additional section that only displays posts from followed users.
 
